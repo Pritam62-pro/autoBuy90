@@ -1,0 +1,28 @@
+[14745:14745:1006/211303.034276:WARNING:chrome_main_delegate.cc(609)] This is Chrome version 117.0.5938.149 (not a warning)
+[14745:14745:1006/211303.079026:WARNING:policy_logger.cc(148)] :components/enterprise/browser/controller/chrome_browser_cloud_management_controller.cc(88) Could not create policy manager as CBCM is not enabled.
+[14745:14745:1006/211303.242175:ERROR:policy_logger.cc(154)] :components/enterprise/browser/controller/chrome_browser_cloud_management_controller.cc(163) Cloud management controller initialization aborted as CBCM is not enabled.
+[14745:14745:1006/211303.245637:WARNING:account_consistency_mode_manager.cc(73)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[14792:14792:1006/211303.303382:WARNING:sandbox_linux.cc(393)] InitializeSandbox() called with multiple threads in process gpu-process.
+[14745:14745:1006/211303.386892:WARNING:bluez_dbus_manager.cc(247)] Floss manager not present, cannot set Floss enable/disable.
+[14745:14745:1006/211303.685773:INFO:CONSOLE(32)] "Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: chrome://resources/roboto/roboto-regular.woff2", source: chrome://new-tab-page/ (32)
+[14745:14745:1006/211303.804809:INFO:CONSOLE(1)] "%s [33m%s [0.001] [SW] init", source: https://web.telegram.org/k/sw-2bb50b54.js (1)
+[14745:14745:1006/211303.806952:INFO:CONSOLE(1)] "%s [33m%s [0.003] [SW] got 0 windows from the start", source: https://web.telegram.org/k/sw-2bb50b54.js (1)
+[14745:14745:1006/211303.895206:INFO:CONSOLE(1)] "%s [33m%s [0.092] [SW] window connected b606e9cb-f3c1-4c41-afdd-22113cc82465 windows before 0", source: https://web.telegram.org/k/sw-2bb50b54.js (1)
+[14745:14745:1006/211303.895299:INFO:CONSOLE(1)] "%s [33m%s [0.092] [SW] windows ", source: https://web.telegram.org/k/sw-2bb50b54.js (1)
+[14745:14745:1006/211303.895357:INFO:CONSOLE(1)] "%s [33m%s [0.092] [SW] sending message port for mtproto", source: https://web.telegram.org/k/sw-2bb50b54.js (1)
+[14745:14745:1006/211303.922788:INFO:CONSOLE(1)] "got state, time: 34.299999999813735", source: https://web.telegram.org/k/index-257913ec.js (1)
+[14745:14745:1006/211303.922996:INFO:CONSOLE(1)] "Will mount IM page: 1696606983.922", source: https://web.telegram.org/k/index-257913ec.js (1)
+[14745:14745:1006/211304.117410:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://web.telegram.org/k/#@QuickDealsx_quick_deals (0)
+[14745:14745:1006/211304.124753:INFO:CONSOLE(0)] "The provided application server key is not a VAPID key. Only VAPID keys will be supported in the future. For more information check https://crbug.com/979235.", source: https://web.telegram.org/k/#@QuickDealsx_quick_deals (0)
+[14745:14745:1006/211304.143211:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://web.telegram.org/k/#@QuickDealsx_quick_deals (0)
+[14745:14745:1006/211304.143597:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://web.telegram.org/k/#@QuickDealsx_quick_deals (0)
+[14745:14761:1006/211307.022252:ERROR:udev_watcher.cc(98)] Failed to begin udev enumeration.
+[14745:14765:1006/211309.466321:ERROR:registration_request.cc(282)] Registration HTTP response code not OK: 404
+[14745:14745:1006/211318.163298:INFO:CONSOLE(1)] "%s [33m%s [14.357] [SW] something has disconnected [object WindowClient]", source: https://web.telegram.org/k/sw-2bb50b54.js (1)
+[14745:14745:1006/211318.164385:INFO:CONSOLE(1)] "%s [33m%s [14.357] [SW] window disconnected, left 0", source: https://web.telegram.org/k/sw-2bb50b54.js (1)
+[14745:14745:1006/211318.164431:INFO:CONSOLE(1)] "%s [33m%s [14.357] [SW] no windows left", source: https://web.telegram.org/k/sw-2bb50b54.js (1)
+[14745:14745:1006/211318.164460:INFO:CONSOLE(1)] "%s [33m%s [14.357] [SW] something has disconnected [object MessagePort]", source: https://web.telegram.org/k/sw-2bb50b54.js (1)
+[14745:14745:1006/211318.164476:INFO:CONSOLE(1)] "%s [33m%s [14.357] [SW] it is not a window", source: https://web.telegram.org/k/sw-2bb50b54.js (1)
+[14804:14841:1006/211318.203328:WARNING:sqlite_persistent_store_backend_base.cc(198)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:246 to client_task_runner_.
+[14804:14841:1006/211318.203559:WARNING:sqlite_persistent_store_backend_base.cc(198)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:246 to client_task_runner_.
+[14745:14745:1006/211318.241073:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
